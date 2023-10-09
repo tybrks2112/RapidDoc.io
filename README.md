@@ -13,15 +13,6 @@ RapidDoc® is a powerful PDF document generator built 100% natively on the Sales
 - Ability to Embed custom Lightning Web Components into Documents
 - Real Time and Reportable Document Metrics
 
-## Installation
-
-[![Install Managed Package in a Sandbox](./images/btn-install-managed-package-sandbox.png)](	https://test.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001dSPV)
-[![Install Managed Package in Production](./images/btn-install-managed-package-production.png)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tHp000001dSPV)
-
-`sf package install --wait 30 --security-type AdminsOnly --package 04tHp000001dSPV`
-
-`sfdx force:package:install --wait 30 --securitytype AdminsOnly --package 04tHp000001dSPV`
-
 ## Documentation
 
 [Documentation](https://linktodocumentation)
